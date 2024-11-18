@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(208, 206, 206);
+}
+h2{
+    /* font-size: 35px; */
+    margin-left: 12px;
+}
+#add{
+    width: 73%;
+    padding: 6px;
+}
+#jobrole{
+    padding: 6px;
+}
+.addr{
+    margin-left: 12px;
+   
+}
+.container{
+    max-width: 550px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 19px;
+    margin: 50px auto;
+    padding: 20px;
+    
+     
+}
+.mainsc{
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+   
+}
+#upload{
+    margin-left: 56px;
+    padding: 6px;
+    background-color: white;
+    width: 70%;
+    
+}
+#lb{
+    margin-left: 56px;
+}
+#txt{
+    padding: 6px;
+    width: 100%;
+    
+}
+
+::placeholder{
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+font-family: 'Courier New', Courier, monospace;
+}
+.content{
+    display: flex;
+    justify-content: left;
+}
+.label1{
+    padding: 12px;
+}
+button{
+    float: right;
+    padding: 6px;
+   color: white;
+   background-color: red;
+   border:none;
+   border-radius: 5px;
+
+
+}
